@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AyoPluto
+- 👋 Hi, I’m @fkaz_
 - 👀 I’m interested in Gaming and Coding
-- 🌱 I’m currently learning Skript and C++
-- 💞️ I’m looking to collaborate on Skript Servers
+- 🌱 I’m currently learning Server Logo Creation (BlockBench) and Skript!
 - 📫 How to reach me:
--   Discord: AyoPluto#0001
+-   Discord: fkaz_
+-   Gmail: cameronrichards625@gmail.com
